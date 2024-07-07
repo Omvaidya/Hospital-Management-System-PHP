@@ -109,6 +109,10 @@ This Hospital Management System provides a robust and user-friendly interface fo
 
 Contributions are welcome! If you have any suggestions or improvements, please create a pull request or open an issue.
 
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
 ## Acknowledgments
 
 - Thanks to the authors of the PHP and CSS libraries used in this project.
