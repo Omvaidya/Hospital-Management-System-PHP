@@ -109,10 +109,6 @@ To run this project, you'll need to have the following installed:
 
 Contributions are welcome! If you have any suggestions or improvements, please create a pull request or open an issue.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
 ## Acknowledgments
 
 - Thanks to the authors of the libraries and tools used in this project.
